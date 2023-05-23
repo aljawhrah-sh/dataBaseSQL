@@ -1,5 +1,5 @@
 # dataBaseSQL
-taxi is for transportation for local areas. 
+transportation for local areas. 
 Riders have (ID, Name, phone number) they could request one car that’s suitable nearby. 
 Drivers have (ID, Name, phone number) and should be able to drive a car. 
 Location has (address: street, zip) it must appear to drivers,and should be shared by the rider.
